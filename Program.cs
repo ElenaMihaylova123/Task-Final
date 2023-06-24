@@ -1,7 +1,7 @@
 ﻿string[] source = new string[4] {"Hello", "2", "world", ":-)"};
 string[] result = new string[source.Length];
 
-void SecondArrayWithIF(string[] source, string[] result)
+void filter_source_array(string[] source, string[] result)
 {
     int count = 0;
     for (int i = 0; i < source.Length; i++)
@@ -14,7 +14,7 @@ void SecondArrayWithIF(string[] source, string[] result)
     }
 }
 
-void PrintArray(string[] array)
+void print_result_array(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -23,5 +23,5 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 
-SecondArrayWithIF(source, result);
-PrintArray(result);
+filter_source_array(source, result);
+print_result_array(result);
