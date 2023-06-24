@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TaskFinal\Task-Final\bin\Debug\net6.0\Task-Final.exe
+C:\Users\user\Desktop\TaskFinal\Task-Final\bin\Debug\net6.0\Task-Final.deps.json
+C:\Users\user\Desktop\TaskFinal\Task-Final\bin\Debug\net6.0\Task-Final.runtimeconfig.json
+C:\Users\user\Desktop\TaskFinal\Task-Final\bin\Debug\net6.0\Task-Final.dll
+C:\Users\user\Desktop\TaskFinal\Task-Final\bin\Debug\net6.0\Task-Final.pdb
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.AssemblyInfo.cs
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.dll
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\refint\Task-Final.dll
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.pdb
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\Task-Final.genruntimeconfig.cache
+C:\Users\user\Desktop\TaskFinal\Task-Final\obj\Debug\net6.0\ref\Task-Final.dll
